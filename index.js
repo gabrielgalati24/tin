@@ -37,7 +37,7 @@ export class tinderPagination {
     // newsPerson(personas){
     //     const lastPerson = this.personas[this.personas.length - 1];
     //     const newPersons = personas.unshift(lastPerson);
-    //     return this.personas = personasas
+    //     return this.personas = personasasasd
     // }
     newsPerson(personas){
         const lastPerson = this.personas[this.personas.length - 1];
