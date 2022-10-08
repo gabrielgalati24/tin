@@ -1,0 +1,16 @@
+{
+  "name": "j",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "uvu test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "uvu": "^0.5.6"
+  }
+}
