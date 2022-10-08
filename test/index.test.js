@@ -26,7 +26,7 @@ test('tinderPagination previous page', () => {
     tinderP.previous();
     tinderP.previous();
     tinderP.previous();
-    assert.is(tinderP.actualPage, 4);
+    assert.is(tinderP.actualPage, 5);
 });
 
 test('tinderPagination newsPerson', () => {
